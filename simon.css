@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+}
+.btn-container{
+    display: flex;
+    justify-content: center;
+}
+.btn{
+    height:200px;
+    width: 200px;
+    border: 10px solid #000000;
+    border-radius: 3rem;
+    margin: 0.8rem;
+   
+}
+.clr1{
+background-color: rgb(104, 6, 6);
+}
+
+.clr2{
+   
+    background-color: rgb(15, 81, 101);
+    
+}
+.clr3{
+   
+    background-color: rgb(58, 23, 116);
+}
+.clr4{
+
+    background-color: rgb(121, 6, 110);
+}
+
+.flash{
+    background-color: white;
+}
